@@ -1,0 +1,9 @@
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\bin\Release\WindowsForms_TextReader.exe.config
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\bin\Release\WindowsForms_TextReader.exe
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\bin\Release\WindowsForms_TextReader.pdb
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\bin\Release\itextsharp.dll
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\obj\Release\WindowsForms_TextReader.Form1.resources
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\obj\Release\WindowsForms_TextReader.Properties.Resources.resources
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\obj\Release\WindowsForms_TextReader.csproj.GenerateResource.Cache
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\obj\Release\WindowsForms_TextReader.exe
+C:\Users\Nathan\Dropbox\WindowsForms_TextReader\WindowsForms_TextReader\obj\Release\WindowsForms_TextReader.pdb
